@@ -2,6 +2,13 @@
 
 https://codemaker2015.medium.com/deploy-your-flask-rest-api-on-docker-909f5cfa8b0b
 
+## Docker Image
+
+```
+docker pull codemaker2015/flask-rest-api-demo
+docker run -d -p 5000:5000 codemaker2015/flask-rest-api-demo
+```
+
 ## Flask API
 
 ```py
@@ -31,7 +38,7 @@ books = [
         "isbn":"9781491943533",
         "title":"Practical Modern JavaScript",
         "subtitle":"Dive into ES6 and the Future of JavaScript",
-        "author":"Nicol·s Bevacqua",
+        "author":"Nicol√°s Bevacqua",
         "published":"2017-07-16T00:00:00.000Z",
         "publisher":"O'Reilly Media",
         "pages":334,
