@@ -1,6 +1,6 @@
 # Deploy your Flask REST API on Docker 
 
-https://codemaker2015.medium.com/deploy-your-flask-rest-api-on-docker-909f5cfa8b0b
+https://medium.com/@codemaker2016/build-and-deploy-flask-rest-api-on-docker-bc8d506b3549
 
 ## Docker Image
 
